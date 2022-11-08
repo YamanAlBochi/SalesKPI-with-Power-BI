@@ -22,5 +22,5 @@ Conclusion and Insights:
 
 5- Technological products is having the highest in revenue with 36.4% share worth $836K whereas Office Product is the lowest share in revenue with 31.3% share worth $430K.
 
-
+**Download the PBIX file to view the Dashboard**
 
