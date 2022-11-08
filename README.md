@@ -20,7 +20,7 @@ Conclusion and Insights:
 
 4- From the visualization, we can see that Consumer goods are having the highest share in revenue with $1161K whereas Home Office is the lowest share in revenue with $430K
 
-5- Technological products is having the highest in revenue with 36.4% share worth $836K whereas Office Product is the lowest share in revenue with 31.3% share worth $430K.
+5- Technological products is having the highest in revenue with 36.4% share worth $836K whereas Office Product is the lowest share in revenue with 31.3% share worth $430K
 
 
 
